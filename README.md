@@ -24,6 +24,7 @@ Display the image until the loop gets over.
 Rotate the image using cv2.rotate(smaller_frame,cv2.ROTATE_180).
 ## Program:
 ``` Python
+```
 ### Developed By:PAVANA.G
 ### Register No:212222230105
 
@@ -92,7 +93,6 @@ while True:
         break
 cap.release()
 cv2.destroyAllWindows()
-```
 ```
 ## Output
 
